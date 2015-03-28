@@ -4,4 +4,4 @@ applications:
   buildpack: https://github.com/cloudfoundry-incubator/staticfile-buildpack.git
   paths:
   - dist/
-  memory: 128M
+  memory: 64M
