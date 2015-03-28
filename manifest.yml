@@ -1,7 +1,7 @@
 ---
 applications:
 - name: swagger
-  buildpack: https://github.com/hairmare/staticfile-buildpack.git#feature/html5-cache-manifest-mimetype
+  buildpack: https://github.com/cloudfoundry-incubator/staticfile-buildpack.git
   paths:
   - dist/
   memory: 64M
