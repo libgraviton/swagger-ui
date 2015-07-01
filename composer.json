@@ -1,0 +1,13 @@
+{
+  "name": "libgraviton/swagger-ui",
+  "license": "GPL",
+  "type": "project",
+  "description": "Graviton specific fork of swagger-ui",
+  "authors": [
+    {
+      "name": "List of contributors",
+      "homepage": "https://github.com/libgraviton/graviton/graphs/contributors"
+    }
+  ],
+  "non-feature-branches": ["master", "develop", "support/*"]
+}
